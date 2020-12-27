@@ -1,0 +1,1 @@
+I have Renamed all.css to with font-awesome.min.css cause of some peroblems
